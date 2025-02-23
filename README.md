@@ -1,6 +1,6 @@
 
 # Header Scanner Tool
-
+![Image](https://github.com/user-attachments/assets/e9caa375-ed8d-47c7-b05c-317521c1e4cf)
 **Header Scanner** is a Python-based tool designed to scan website HTTP headers for critical security headers, ensuring your website is protected against common web vulnerabilities like XSS attacks, clickjacking, man-in-the-middle attacks, and more. 
 
 Developed by **Faizalimam**, this tool identifies missing security headers and provides actionable suggestions on how to fix them.
